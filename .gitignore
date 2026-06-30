@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Logs and local runtime files
+*.log
+.next-server*.log
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Local-only generated artifacts
+artifacts/
+tools/
+/audios/
+/recursos/
+transcripts/wav/
+transcripts/audio-01-guayaripoi-segment.*
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

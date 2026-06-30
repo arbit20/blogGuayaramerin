@@ -1,0 +1,1187 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX_VNNI = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "small",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"text": {
+			"ctx": 448,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": ".\\tools\\models\\ggml-small.bin",
+		"language": "es",
+		"translate": false
+	},
+	"result": {
+		"language": "es"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:13,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 13000
+			},
+			"text": " Y este periódico, el porvenir, era lo editaba un gran hombre que se llamaba Don Juan Bautista Coimbra y lo editaba en baures."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,000",
+				"to": "00:00:29,000"
+			},
+			"offsets": {
+				"from": 13000,
+				"to": 29000
+			},
+			"text": " Y hay un número especial que sale en el año 1912, donde testifica y dice que la fundación de Guayaramerin fue un 19 de agosto de 1892"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,000",
+				"to": "00:00:35,000"
+			},
+			"offsets": {
+				"from": 29000,
+				"to": 35000
+			},
+			"text": " y debe reconocerse a esta población como Puerto Palmira."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,000",
+				"to": "00:00:38,000"
+			},
+			"offsets": {
+				"from": 35000,
+				"to": 38000
+			},
+			"text": " Eso sale en 1912."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,000",
+				"to": "00:00:41,000"
+			},
+			"offsets": {
+				"from": 38000,
+				"to": 41000
+			},
+			"text": " O sea, lo certifica el periódico."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,000",
+				"to": "00:00:47,000"
+			},
+			"offsets": {
+				"from": 41000,
+				"to": 47000
+			},
+			"text": " Claro que más ante hay un antecedente jurídico legal."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:47,000",
+				"to": "00:01:09,000"
+			},
+			"offsets": {
+				"from": 47000,
+				"to": 69000
+			},
+			"text": " Cuando estaba del presidente Don José Manuel Pando, el mediante la convención nacional que se realizaba en Oruro, lanzan un decreto donde se crea la cuarta provincia en el departamento del Beni,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:09,000",
+				"to": "00:01:23,000"
+			},
+			"offsets": {
+				"from": 69000,
+				"to": 83000
+			},
+			"text": " la provincia vacadíes. La misma ley dice que se crea en el departamento del Beni una nueva provincia que se denominará provincia vacadíes."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:23,000",
+				"to": "00:01:27,000"
+			},
+			"offsets": {
+				"from": 83000,
+				"to": 87000
+			},
+			"text": " La misma que estará compuesta por dos secciones."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:27,000",
+				"to": "00:01:40,000"
+			},
+			"offsets": {
+				"from": 87000,
+				"to": 100000
+			},
+			"text": " Primera sección con su capital Villabella y sus vice cantones Ivón y Florida."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:40,000",
+				"to": "00:01:52,000"
+			},
+			"offsets": {
+				"from": 100000,
+				"to": 112000
+			},
+			"text": " Y la segunda sección con su capital Villabella y sus vice cantones Esperanza, Yata y Guayaramerin."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:52,000",
+				"to": "00:01:59,000"
+			},
+			"offsets": {
+				"from": 112000,
+				"to": 119000
+			},
+			"text": " Entonces esta ley es la que le da legalidad a este puerto de Guayaramerin."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,000",
+				"to": "00:02:07,000"
+			},
+			"offsets": {
+				"from": 119000,
+				"to": 127000
+			},
+			"text": " Esta ley, la ley del 1900, el 19 de agosto de 1892."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:07,000",
+				"to": "00:02:10,000"
+			},
+			"offsets": {
+				"from": 127000,
+				"to": 130000
+			},
+			"text": " Y esta ley está en la Gazeta Oficial de Bolivia."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:10,000",
+				"to": "00:02:13,000"
+			},
+			"offsets": {
+				"from": 130000,
+				"to": 133000
+			},
+			"text": " Entonces la pueden buscar ahí, está la ley."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:13,000",
+				"to": "00:02:26,000"
+			},
+			"offsets": {
+				"from": 133000,
+				"to": 146000
+			},
+			"text": " Pasó el tiempo y ya en 1905, un decreto ley crea en este puerto, en esta comarca, en este barranco, vamos a decirlo,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,000",
+				"to": "00:02:31,000"
+			},
+			"offsets": {
+				"from": 146000,
+				"to": 151000
+			},
+			"text": " crea un puerto, puerto sucre."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,000",
+				"to": "00:02:37,000"
+			},
+			"offsets": {
+				"from": 151000,
+				"to": 157000
+			},
+			"text": " Eso fue en 1905, el 17 de noviembre de 1905."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:37,000",
+				"to": "00:02:43,000"
+			},
+			"offsets": {
+				"from": 157000,
+				"to": 163000
+			},
+			"text": " Y éste es el problema para la confusión de la fecha de Guayaramerin."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,000",
+				"to": "00:02:50,000"
+			},
+			"offsets": {
+				"from": 163000,
+				"to": 170000
+			},
+			"text": " Entonces en 1905 se crea el puerto, no el pueblo."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:50,000",
+				"to": "00:02:55,000"
+			},
+			"offsets": {
+				"from": 170000,
+				"to": 175000
+			},
+			"text": " O sea, en el pueblo de Guayaramerin se crea un puerto."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,000",
+				"to": "00:03:03,000"
+			},
+			"offsets": {
+				"from": 175000,
+				"to": 183000
+			},
+			"text": " Y ahí fue la confusión, la gente ya, ah, viejo, le cambiaron el nombre a Guayaramerin, se llama Puerto Sucre."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:03,000",
+				"to": "00:03:07,000"
+			},
+			"offsets": {
+				"from": 183000,
+				"to": 187000
+			},
+			"text": " Guayaramerin nunca se llamó Puerto Sucre."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:07,000",
+				"to": "00:03:09,000"
+			},
+			"offsets": {
+				"from": 187000,
+				"to": 189000
+			},
+			"text": " Nunca."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:09,000",
+				"to": "00:03:16,000"
+			},
+			"offsets": {
+				"from": 189000,
+				"to": 196000
+			},
+			"text": " Ahorita ese puerto sucre que se crea en 1905, ahorita se llama Puerto Sócrates Vargas."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:16,000",
+				"to": "00:03:22,000"
+			},
+			"offsets": {
+				"from": 196000,
+				"to": 202000
+			},
+			"text": " Claro, actualmente es el puerto, no el pueblo."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:22,000",
+				"to": "00:03:24,000"
+			},
+			"offsets": {
+				"from": 202000,
+				"to": 204000
+			},
+			"text": " Entonces esto ocasionó confusión."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:24,000",
+				"to": "00:03:28,000"
+			},
+			"offsets": {
+				"from": 204000,
+				"to": 208000
+			},
+			"text": " Y bueno, ya mucha gente decía, Puerto Sucre, Puerto Sucre, Puerto Sucre."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:28,000",
+				"to": "00:03:33,000"
+			},
+			"offsets": {
+				"from": 208000,
+				"to": 213000
+			},
+			"text": " Y no es el pueblo, sino el puerto, la rada."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:33,000",
+				"to": "00:03:35,000"
+			},
+			"offsets": {
+				"from": 213000,
+				"to": 215000
+			},
+			"text": " La rada."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,000",
+				"to": "00:03:45,000"
+			},
+			"offsets": {
+				"from": 215000,
+				"to": 225000
+			},
+			"text": " Y para que no causar más confusión durante el gobierno de Don Ismael Montes Gamboa,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:45,000",
+				"to": "00:04:06,000"
+			},
+			"offsets": {
+				"from": 225000,
+				"to": 246000
+			},
+			"text": " el 22 de septiembre de 1915 sale una ley donde se anula el decreto de la creación de Puerto Sucre."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:06,000",
+				"to": "00:04:08,000"
+			},
+			"offsets": {
+				"from": 246000,
+				"to": 248000
+			},
+			"text": " De Puerto Sucre."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:08,000",
+				"to": "00:04:19,000"
+			},
+			"offsets": {
+				"from": 248000,
+				"to": 259000
+			},
+			"text": " Queda abrogado. No dicen por anular, sino que sacan una ley en vez del decreto supremo de 1905."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:19,000",
+				"to": "00:04:24,000"
+			},
+			"offsets": {
+				"from": 259000,
+				"to": 264000
+			},
+			"text": " Entonces el 22 de septiembre de 1915."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,000",
+				"to": "00:04:26,000"
+			},
+			"offsets": {
+				"from": 264000,
+				"to": 266000
+			},
+			"text": " Sale esa ley."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:26,000",
+				"to": "00:04:28,000"
+			},
+			"offsets": {
+				"from": 266000,
+				"to": 268000
+			},
+			"text": " Sale esa ley, está también en la gaseca."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:28,000",
+				"to": "00:04:30,000"
+			},
+			"offsets": {
+				"from": 268000,
+				"to": 270000
+			},
+			"text": " Pero promulgada."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:30,000",
+				"to": "00:04:32,000"
+			},
+			"offsets": {
+				"from": 270000,
+				"to": 272000
+			},
+			"text": " Sí, promulgada."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:32,000",
+				"to": "00:04:38,000"
+			},
+			"offsets": {
+				"from": 272000,
+				"to": 278000
+			},
+			"text": " Entonces sale esa ley y dicen, ya desde hoy en adelante, no dicen para no confundir."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,000",
+				"to": "00:04:45,000"
+			},
+			"offsets": {
+				"from": 278000,
+				"to": 285000
+			},
+			"text": " Simplemente dice, desde hoy en adelante, el puerto que fue creado en 1905 con el nombre de Puerto Sucre,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:45,000",
+				"to": "00:04:47,000"
+			},
+			"offsets": {
+				"from": 285000,
+				"to": 287000
+			},
+			"text": " desde hoy se llamará Guay Aramerín."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,000",
+				"to": "00:04:50,000"
+			},
+			"offsets": {
+				"from": 287000,
+				"to": 290000
+			},
+			"text": " Entonces a eso le llaman resticución."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:50,000",
+				"to": "00:04:56,000"
+			},
+			"offsets": {
+				"from": 290000,
+				"to": 296000
+			},
+			"text": " Pero en cierta forma no hay resticución, porque siempre el vuelvo y Aramerín nunca le cambiaron."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:56,000",
+				"to": "00:05:05,000"
+			},
+			"offsets": {
+				"from": 296000,
+				"to": 305000
+			},
+			"text": " Entonces, desde 1915 está la ley en la gaseca también a poder buscar."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:05,000",
+				"to": "00:05:07,000"
+			},
+			"offsets": {
+				"from": 305000,
+				"to": 307000
+			},
+			"text": " Desde 1915."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:07,000",
+				"to": "00:05:18,000"
+			},
+			"offsets": {
+				"from": 307000,
+				"to": 318000
+			},
+			"text": " Y de ahí viene, en 1931 se crea en Guay Aramerín ya la Junta Municipal."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:18,000",
+				"to": "00:05:20,000"
+			},
+			"offsets": {
+				"from": 318000,
+				"to": 320000
+			},
+			"text": " En 1931."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:20,000",
+				"to": "00:05:22,000"
+			},
+			"offsets": {
+				"from": 320000,
+				"to": 322000
+			},
+			"text": " 31."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:22,000",
+				"to": "00:05:24,000"
+			},
+			"offsets": {
+				"from": 322000,
+				"to": 324000
+			},
+			"text": " Se crea la Junta Municipal."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,000",
+				"to": "00:05:26,000"
+			},
+			"offsets": {
+				"from": 324000,
+				"to": 326000
+			},
+			"text": " Sería la primer junta."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:26,000",
+				"to": "00:05:33,000"
+			},
+			"offsets": {
+				"from": 326000,
+				"to": 333000
+			},
+			"text": " Bueno, en el 1900 se crea la primera junta, pero no funcionó."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,000",
+				"to": "00:05:37,000"
+			},
+			"offsets": {
+				"from": 333000,
+				"to": 337000
+			},
+			"text": " Pero ya esta, la del 1931, funcionó."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:37,000",
+				"to": "00:05:45,000"
+			},
+			"offsets": {
+				"from": 337000,
+				"to": 345000
+			},
+			"text": " Y su primer presidente de la Junta Municipal era Don Severiano Vázquez."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:45,000",
+				"to": "00:05:53,000"
+			},
+			"offsets": {
+				"from": 345000,
+				"to": 353000
+			},
+			"text": " Fue Don Severiano Vázquez, el papá de un notable de aquí, Guay Aramerín, Don Aurelio Vázquez."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:53,000",
+				"to": "00:05:55,000"
+			},
+			"offsets": {
+				"from": 353000,
+				"to": 355000
+			},
+			"text": " El que era notario?"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:55,000",
+				"to": "00:05:57,000"
+			},
+			"offsets": {
+				"from": 355000,
+				"to": 357000
+			},
+			"text": " No."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:57,000",
+				"to": "00:05:59,000"
+			},
+			"offsets": {
+				"from": 357000,
+				"to": 359000
+			},
+			"text": " Sí, Severiano Vázquez fue notario."
+		},
+		{
+			"timestamps": {
+				"from": "00:05:59,000",
+				"to": "00:06:01,000"
+			},
+			"offsets": {
+				"from": 359000,
+				"to": 361000
+			},
+			"text": " Y Don Aurelio fue notario?"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:01,000",
+				"to": "00:06:05,000"
+			},
+			"offsets": {
+				"from": 361000,
+				"to": 365000
+			},
+			"text": " No, ese fue Don Aurelio Gutinía."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:05,000",
+				"to": "00:06:13,000"
+			},
+			"offsets": {
+				"from": 365000,
+				"to": 373000
+			},
+			"text": " Era el goño del hotel, el papá del que murió el otro día, Capy Vázquez."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:13,000",
+				"to": "00:06:16,000"
+			},
+			"offsets": {
+				"from": 373000,
+				"to": 376000
+			},
+			"text": " Ah, del anexo, del Hotel Plaza."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:16,000",
+				"to": "00:06:19,000"
+			},
+			"offsets": {
+				"from": 376000,
+				"to": 379000
+			},
+			"text": " El Hotel Plaza era al frente de la bancunión."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:19,000",
+				"to": "00:06:26,000"
+			},
+			"offsets": {
+				"from": 379000,
+				"to": 386000
+			},
+			"text": " Entonces, su papá de ese señor se llamaba Don Severiano Vázquez, fue el primer notario de aquí."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:26,000",
+				"to": "00:06:32,000"
+			},
+			"offsets": {
+				"from": 386000,
+				"to": 392000
+			},
+			"text": " El primer presidente de la Junta Municipal de Guay Aramerín."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:32,000",
+				"to": "00:06:34,000"
+			},
+			"offsets": {
+				"from": 392000,
+				"to": 394000
+			},
+			"text": " En 1931."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:38,000",
+				"to": "00:06:50,000"
+			},
+			"offsets": {
+				"from": 398000,
+				"to": 410000
+			},
+			"text": " De ahí siguió, ah bueno, en 1967 estaba de alcalde Don Manglio Roca Melgar."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:50,000",
+				"to": "00:06:58,000"
+			},
+			"offsets": {
+				"from": 410000,
+				"to": 418000
+			},
+			"text": " Y este, tal vez este ciudadano que queriendo darle una historia a Guay Aramerín,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:58,000",
+				"to": "00:07:02,000"
+			},
+			"offsets": {
+				"from": 418000,
+				"to": 422000
+			},
+			"text": " descarbaron juntamente con el profesor David Ray Cuellar."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:02,000",
+				"to": "00:07:09,000"
+			},
+			"offsets": {
+				"from": 422000,
+				"to": 429000
+			},
+			"text": " Y dijeron, bueno, el 22 de septiembre, con esta ley, la fecha, pero ahí le pelaron."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:09,000",
+				"to": "00:07:11,000"
+			},
+			"offsets": {
+				"from": 429000,
+				"to": 431000
+			},
+			"text": " Ellos dijeron la fecha de fundación."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:11,000",
+				"to": "00:07:13,000"
+			},
+			"offsets": {
+				"from": 431000,
+				"to": 433000
+			},
+			"text": " No es."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:13,000",
+				"to": "00:07:18,000"
+			},
+			"offsets": {
+				"from": 433000,
+				"to": 438000
+			},
+			"text": " Y no puede ser la fecha de fundación el 1915, porque más ante ahí antecedente."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:18,000",
+				"to": "00:07:20,000"
+			},
+			"offsets": {
+				"from": 438000,
+				"to": 440000
+			},
+			"text": " Y con ley, te lo voy a demostrar."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,000",
+				"to": "00:07:23,000"
+			},
+			"offsets": {
+				"from": 440000,
+				"to": 443000
+			},
+			"text": " Entonces, desde ahí empezaron."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:23,000",
+				"to": "00:07:31,000"
+			},
+			"offsets": {
+				"from": 443000,
+				"to": 451000
+			},
+			"text": " Pero nadie le hizo caza a esa ordenanza municipal del 1967, nadie le hizo caza."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:31,000",
+				"to": "00:07:35,000"
+			},
+			"offsets": {
+				"from": 451000,
+				"to": 455000
+			},
+			"text": " El 1970 volvió a sacar otra ordenanza municipal."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:35,000",
+				"to": "00:07:38,000"
+			},
+			"offsets": {
+				"from": 455000,
+				"to": 458000
+			},
+			"text": " Tampoco le hicieron caza, ¿saben por qué?"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:38,000",
+				"to": "00:07:47,000"
+			},
+			"offsets": {
+				"from": 458000,
+				"to": 467000
+			},
+			"text": " Porque la gente de Guay Aramerín celebraba el 8 de diciembre como la fiesta civil y patronal,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:47,000",
+				"to": "00:07:52,000"
+			},
+			"offsets": {
+				"from": 467000,
+				"to": 472000
+			},
+			"text": " que ayer la hicimos, yo la reviví."
+		},
+		{
+			"timestamps": {
+				"from": "00:07:52,000",
+				"to": "00:08:02,000"
+			},
+			"offsets": {
+				"from": 472000,
+				"to": 482000
+			},
+			"text": " Entonces, nadie le daba caza, nadie le hacía caza, ni al 19 de agosto, ni al 22 de septiembre, era todo el 8 de diciembre."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:02,000",
+				"to": "00:08:04,000"
+			},
+			"offsets": {
+				"from": 482000,
+				"to": 484000
+			},
+			"text": " Todo el 8 de diciembre."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:04,000",
+				"to": "00:08:06,000"
+			},
+			"offsets": {
+				"from": 484000,
+				"to": 486000
+			},
+			"text": " Pero ya pasó el tiempo."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:06,000",
+				"to": "00:08:10,000"
+			},
+			"offsets": {
+				"from": 486000,
+				"to": 490000
+			},
+			"text": " Estábamos preocupados por la cuestión de la historia de Guay Aramerín."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:10,000",
+				"to": "00:08:14,000"
+			},
+			"offsets": {
+				"from": 490000,
+				"to": 494000
+			},
+			"text": " Se realizó un congreso en 1992 aquí en Palacio de la Cultura."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:14,000",
+				"to": "00:08:18,000"
+			},
+			"offsets": {
+				"from": 494000,
+				"to": 498000
+			},
+			"text": " Y se invitó a historiadores de sucre de Cochabamba de Santa Cruz."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:18,000",
+				"to": "00:08:19,000"
+			},
+			"offsets": {
+				"from": 498000,
+				"to": 499000
+			},
+			"text": " En 1992."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:19,000",
+				"to": "00:08:26,000"
+			},
+			"offsets": {
+				"from": 499000,
+				"to": 506000
+			},
+			"text": " En 1992, en Guay Aramerín se realizó un encuentro de historiadores."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:26,000",
+				"to": "00:08:31,000"
+			},
+			"offsets": {
+				"from": 506000,
+				"to": 511000
+			},
+			"text": " Y vinieron de Trinidad, de Santa Cruz, de Sucre."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:31,000",
+				"to": "00:08:32,000"
+			},
+			"offsets": {
+				"from": 511000,
+				"to": 512000
+			},
+			"text": " ¿Y eso que ya lo hizo?"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:32,000",
+				"to": "00:08:33,000"
+			},
+			"offsets": {
+				"from": 512000,
+				"to": 513000
+			},
+			"text": " El Palacio de la Cultura."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:33,000",
+				"to": "00:08:34,000"
+			},
+			"offsets": {
+				"from": 513000,
+				"to": 514000
+			},
+			"text": " Ah, el Palacio."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:34,000",
+				"to": "00:08:56,000"
+			},
+			"offsets": {
+				"from": 514000,
+				"to": 536000
+			},
+			"text": " Entonces, en esa casa, en ese entonces, en 1992, se dilucidó y se llegó a concluir, no, 1989, correctivo, 1989."
+		},
+		{
+			"timestamps": {
+				"from": "00:08:56,000",
+				"to": "00:09:03,000"
+			},
+			"offsets": {
+				"from": 536000,
+				"to": 543000
+			},
+			"text": " Ahí se llegó a dilucidar la fecha verdadera, porque todos los historiadores"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:03,000",
+				"to": "00:09:07,000"
+			},
+			"offsets": {
+				"from": 543000,
+				"to": 547000
+			},
+			"text": " pusieron todos sus motivos y todo su documento."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:07,000",
+				"to": "00:09:14,000"
+			},
+			"offsets": {
+				"from": 547000,
+				"to": 554000
+			},
+			"text": " Y se llegó a la conclusión de que Guay Aramerín se fundó el 19 de agosto de 1892."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:14,000",
+				"to": "00:09:21,000"
+			},
+			"offsets": {
+				"from": 554000,
+				"to": 561000
+			},
+			"text": " Y para que no se queje lo demás, bueno, ya dijeron que quede el 22 de septiembre como aniversario si."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:21,000",
+				"to": "00:09:26,000"
+			},
+			"offsets": {
+				"from": 561000,
+				"to": 566000
+			},
+			"text": " Pero no tiene ninguna importancia el cambio del nombre."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:26,000",
+				"to": "00:09:35,000"
+			},
+			"offsets": {
+				"from": 566000,
+				"to": 575000
+			},
+			"text": " Entonces, la verdadera fecha de fundación de Guay Aramerín es el 19 de agosto de 1892,"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:35,000",
+				"to": "00:09:46,000"
+			},
+			"offsets": {
+				"from": 575000,
+				"to": 586000
+			},
+			"text": " que en la revista que va a llegar de aquí unos 10 días, ahí se aclara el asunto de la fundación de Guay Aramerín."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:46,000",
+				"to": "00:09:47,000"
+			},
+			"offsets": {
+				"from": 586000,
+				"to": 587000
+			},
+			"text": " ¿Bien?"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:47,000",
+				"to": "00:09:48,000"
+			},
+			"offsets": {
+				"from": 587000,
+				"to": 588000
+			},
+			"text": " Yo voy a querer."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:48,000",
+				"to": "00:09:49,000"
+			},
+			"offsets": {
+				"from": 588000,
+				"to": 589000
+			},
+			"text": " Claro que sí."
+		},
+		{
+			"timestamps": {
+				"from": "00:09:49,000",
+				"to": "00:10:00,000"
+			},
+			"offsets": {
+				"from": 589000,
+				"to": 600000
+			},
+			"text": " Entonces, esa es la situación. Ahora, esto te lo haré copiar con la señora y te va a dar todas las leyes de Guay Aramerín."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:00,000",
+				"to": "00:10:01,000"
+			},
+			"offsets": {
+				"from": 600000,
+				"to": 601000
+			},
+			"text": " Ya."
+		}
+	]
+}
